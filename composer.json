@@ -1,0 +1,17 @@
+{
+    "name": "carineguyonnet/composer",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "carinette1364",
+            "email": "carineguyonnet@gmail.com"
+        }
+    ],
+    "require": {
+        "gipetto/cowsay": "^1.1"
+    }
+}
